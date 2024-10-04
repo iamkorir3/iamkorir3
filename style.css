@@ -1,0 +1,369 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.project {
+    width: 900px;
+    height: 1870px;
+    margin: 0 auto;
+    border-left: solid whitesmoke;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.all-content {
+    display: flex;
+    width: 1110px;
+    margin: 0 auto;
+    justify-content: space-between;
+    /* 
+    background-image: url("images/Samsung-Galaxy-Z-Fold-6-b-300x300.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat ;
+    */
+
+
+}
+
+.pppp {
+    color: black;
+}
+
+.a {
+    width: 100px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    /* flex-basis:1 ; */
+    /* margin-right: 250px; */
+    /* align-items: center; */
+    margin-top:20px;
+    color: whitesmoke;
+    border-radius: 6px;
+    border: 2px solid black;
+    background-color: rgb(10, 105, 10);
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
+.body {
+    /* width: 700px; */
+    margin: 0 auto;
+    background-color:black;
+}
+ 
+.content {
+    width: 450px;
+    margin: 0 auto;
+    /* justify-self: flex-end; */
+    /* margin: 10PX; */
+    /* background-image:"src=images/Samsung-Galaxy-Z-Fold-6-b-300x300.jpg"; */
+
+}
+
+button {
+    /* display: block; */
+    width: 200px;
+    height: 80px;
+    background-color:rgb(87, 86, 86);
+    color: whitesmoke;
+    margin-bottom:12px;
+    border-radius: 12px;
+    font-size: large;
+}
+.samsung {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding-top: 25px;
+    width: 200px;
+    height: 75px;
+    background-color:rgb(87, 86, 86);
+    color: whitesmoke;
+    align-items: center;
+    border-radius: 12px;
+    font-size: large;
+    margin-bottom: 16px;
+}
+.button {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 12px;
+    border: 0;
+    
+}
+
+ .login { 
+     width: 300px;
+    margin-top:  3px;
+    /* margin-top: 100px; */
+    /* padding: 20px; */
+    /* height: 250px; */
+    /* text-align: end; */
+    /* display:inline-block */
+    /* align-item:center; */
+
+    
+}
+
+.register {
+    width: 300px;
+    margin: 50px auto;
+    /* align-self: center; */
+    /* background-color: whitesmoke; */
+}
+
+.register-now {
+    width: 350px;
+    height: 430px;
+    margin: 50px auto;
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    border-radius: 12px;
+}
+
+
+
+
+
+    h1 {
+        width: 500px;
+        height: 60px;
+        /* align-items: center; */
+        margin-left: 70px;
+        margin: 0 auto;
+        margin-top: 15px;
+        color: rgb(233, 232, 231);
+        border-radius:8px ;
+        font-size: 40px;
+        /* background-color: rgb(88, 88, 138); */
+        
+        /* text-align: left; */
+    }
+    .pp {
+        width: 200px;
+        font-family: sans-serif;
+        border-radius: 8px;
+        font-weight:bold;
+        margin: 0 0;
+        margin-bottom: 0px;
+        background-color:  rgb(88, 88, 138);
+        
+    }
+    
+    h2 {
+        font-family: sans-sserif;
+        border-radius: 7px;
+        width: 70px;
+        margin-top: 20px;
+        /* color: aliceblue; */
+        /* background-color: aliceblue; */
+}
+
+
+
+.button-submit {
+    width: 110px;
+    height: 50px;
+    margin:0 15px;
+    border-radius: 8px;
+    margin:  0;
+    margin-bottom: 20px;
+   
+}
+a:hover{
+    background-color:rgb(93, 189, 93);
+    color: black;
+}
+
+
+p {
+    margin: 20px 0;
+    color: aliceblue;
+
+}
+label {
+    margin-top: 15px;
+    padding-top: 0px;
+    font-weight: bold;
+    /* color: aliceblue; */
+    /* margin: 30px; */
+    /* background-color: aliceblue; */
+    border-radius: 5px;
+}
+input {
+    width: 300px;
+    margin-top:12px;
+    margin-bottom: 12px;
+    height: 20px;
+    display: block;
+    padding: 20px;
+    border-radius: 10px;
+
+
+}
+.checkbox {
+    display:flex;
+    flex: 1;
+    margin-left: 0;
+    justify-content: left;
+    
+}
+.select {
+    border-radius: 5px;
+    margin-top: 30px;
+    background-color: rgb(26, 231, 163);
+    font-size: large;
+    width: 110px;
+    /* padding-top:20px; */
+    border: 2px solid black;
+}
+
+.img {
+    display: flex;
+    /* width: 80px; */
+    width: 200px;
+    height: 300px;
+    margin: o auto;
+    gap: 11px;
+}
+/*  
+img:hover {
+    width: 300px;
+    height: 500px;
+}
+*/
+
+
+
+.img-up {
+    /* display: block; */
+    width: 200px;
+    height: 300px;
+    /* /* height: 100px; */
+}
+
+.price{
+    color: rgb(247, 16, 16);
+    margin-left: 20px;
+}
+
+.phone-names {
+    color: blue;
+}
+.horizontal-line {
+    border-left:2 px;
+    height: 900px;
+    color: solid black;
+}
+
+hr {
+    width: 160px;
+}
+
+.button-guide {
+    color:blue;
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 900;
+
+}
+.top-p {
+    display: flex;
+    gap: 600px;
+    /* justify-content: space-between; */
+}
+
+.location {
+    margin: 0 0;
+    color: rgb(196, 105, 105);
+}
+
+.aa {
+    width: 90px;
+    height: 45px;
+    margin-top: 15px;
+    border: 2px solid black;
+}
+
+.register-home {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.home {
+    width: 120px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(26, 157, 26);width:95px;
+    padding-top: 15px;
+    border-radius: 6px;
+    height: 50px; 
+    justify-self: center;
+}
+
+
+.registerr {
+    text-decoration: none;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    color: whitesmoke;
+    background-color:rgb(21, 159, 21);
+    padding-top: 12px;
+    text-align: center;
+    border-radius: 6px;
+    width: 120px;
+    height: 50px;
+
+}
+
+.login-register {
+    display: grid;
+    grid-template-columns:2fr 1fr 1fr;
+}
+
+input { 
+    
+    border: 0;
+    border-bottom: 2px solid black;
+}
+
+.nav {
+
+    display: grid;
+    grid-template-columns: 5fr 1fr 1fr;
+    align-content: center;
+    background-color:rgb(2, 84, 2);
+}
+
+
+.sam-pics {
+    width: 700px;
+    height: 1800px;
+    background-color: whitesmoke;
+    margin: 50px auto;
+    justify-content: center;
+}
+
+.samm {
+    width: 500px;
+    margin-left: 135px;
+}
+
+
+
+
+
+
+
