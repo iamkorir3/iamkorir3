@@ -1,82 +1,39 @@
-# Hi, I'm Denis Murithi 👋
-### Software Engineer | Flutter & Kotlin Mobile Developer
+# Hi 👋, I'm Korir Emmanuel
 
-📍 **Chuka, Kenya** • 🌐 **Same timezone as you**  
-📧 **deedenis@gmail.com** • [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://github.com/Denis-7242)
+### A passionate fronted developer
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkorir3&label=Profile views&color=0e75b6&style=flat" alt="iamkorir3" /> </p>
 
-## 🚀 About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamkorir3" alt="iamkorir3" /></a> </p>
 
-I'm a passionate software engineer specializing in mobile application development with Flutter & Kotlin. I'm also a full-stack web developer with a strong interest in cybersecurity and building secure, scalable systems.
+- 🔭 I'm currently working on **React**
 
-- 💼 **Fullstack Web Developer** (Frontend + Backend)
-- 📱 **Mobile App Developer** specializing in **Flutter & Kotlin**
-- 🔒 **Cybersecurity Enthusiast** passionate about building secure systems
-- 🌱 **Always learning** and exploring new technologies
-- 🎯 **Focus:** Clean code, best practices, and user-centric solutions
+- 🌱 I'm currently learning **Java**
 
----
+- 👯 I'm looking to collaborate on **working on personal projects**
 
-## 🛠️ Tech Stack
+- 💬 Ask me about **React & Javascript**
 
-### **Primary Technologies**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+- 📫 How to reach me **iamkorir705@gmail.com**
 
-### **Languages & Frameworks**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+- ⚡ Fun fact **Cody minds**
 
-### **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 👨‍💻 All of my projects are available at **[https://portfolio-sepia-one-wjepfh8rc4.vercel.app/](https://portfolio-sepia-one-wjepfh8rc4.vercel.app/)**
 
----
+- 📄 Know about my experiences **[https://portfolio-sepia-one-wjepfh8rc4.vercel.app/](https://portfolio-sepia-one-wjepfh8rc4.vercel.app/)**
 
-## 📊 GitHub Analytics
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/iamkorir3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="iamkorir3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Emmanuel Korir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emmanuel Korir" height="30" width="40" /></a>
+</p>
 
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
 
-![Denis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Denis-7242&show_icons=true&theme=radical&hide_title=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkorir3&show_icons=true&locale=en&layout=compact" alt="iamkorir3" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-7242&layout=compact&theme=radical&hide_title=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamkorir3&show_icons=true&locale=en" alt="iamkorir3" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Denis-7242&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkorir3&" alt="iamkorir3" /></p>
 
-</div>
-
-### 📈 GitHub Activity
-| Metric | Value |
-|--------|-------|
-| **Total Stars Earned** | 6 |
-| **Total Commits (2024)** | 78 |
-| **Total PRs** | 0 |
-| **Total Issues** | 0 |
-| **Contributed to** | 21 |
-
-### 🏆 Contribution Stats
-- **Total Contributions**: 100+
-- **Current Streak**: 0 days
-- **Longest Streak**: 10 days
-- **Profile Views**: 1,049+
-
----
-
-## 🌟 Most Used Languages
-
-```text
-C++        ██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒   28.50%
-Dart       █████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   26.45%
-Kotlin     ████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   23.14%
-Java       ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   10.84%
-HTML       █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒    3.74%
-Swift      ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒    1.89%
-CSS        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒    1.82%
-Other      ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒    3.52%
